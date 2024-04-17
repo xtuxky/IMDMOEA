@@ -2,7 +2,7 @@
 
 ## 一、算法的总体流程
 
-![](.\IMDMOEA_flow.png)
+![](https://github.com/xtuxky/IMDMOEA/blob/master/IMDMOEA_flow.png)
 
 ## 二、算法中各个函数接口的说明
 
